@@ -14,3 +14,5 @@ echo
 #GET IP ADDRESS OF THE SYSTEM
 IP=$)ifconfig)
 echo $IP
+
+#  ***** thank you ******
